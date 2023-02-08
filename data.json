@@ -1,0 +1,79 @@
+{
+    "question": [
+      "Q1. Cine e campionul SUPERIOR?!",
+      "Q2. Ce echipa a acastigat ultima data Campionatul Mondial?",
+      "Q3. Cum se numeste cel mai mare rank?",
+      "Q4. Care e cel mai fioros monstru din joc?!",
+      "Q5. Cine e Satana in acest joc?",
+      "Q6. Cat gold costa itemul Trinity Force?",
+      "Q7. Care este singurul erou care se poate atasa de alti eroi?",
+      "Q8. Care este cel mai batran erou din joc?",
+      "Q9. Care este singurul erou care nu face parte din povestea Runeterra?",
+      "Q10. Cu ce erou a devenit faimos Faker?"
+    ],
+    "answer": [
+      1,
+      1,
+      1,
+      1,
+      2,
+      4,
+      3,
+      4,
+      1,
+      2
+    ],
+    "options": [
+  
+      ["Yasuo",
+        "Zed",
+        "Yone",
+        "Riven"
+      ],
+      ["DRX",
+        "Fnatic",
+        "T1",
+        "G2"
+      ],
+      ["Challenger",
+        "Grandmaster",
+        "Valorant",
+        "Top 500"
+      ],
+      ["Scuttler",
+        "Baron Nashor",
+        "Drake",
+        "Raptors"
+      ],
+      ["Nasus",
+        "Teemo",
+        "Baron Nashor",
+        "Yuumi"
+      ],
+      ["350",
+        "3100",
+        "2700",
+        "3333"
+      ],
+      ["Zac",
+        "Zed",
+        "Yuumi",
+        "Mordekaiser"
+      ],
+      ["Nasus",
+        "Bard",
+        "Soraka",
+        "Aurelian Sol"
+      ],
+      ["Seraphine",
+        "Lux",
+        "Viego",
+        "Marius"
+      ],
+      ["Yasuo",
+        "Zed",
+        "Katarina",
+        "Ryze"
+      ]
+    ]
+  }
